@@ -1,3 +1,26 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+h2 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+h3 {
+    margin-top: 0.8rem;
+    margin-bottom: 0.5rem;
+}
+
+p {
+    margin-top: 0.2rem;
+    margin-bottom: 0.4rem;
+}
+
+
+
+@media (prefers-color-scheme: dark) {
+    h2 {
+        color: rgb(133, 255, 133);
+    }
+}
