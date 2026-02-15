@@ -28,10 +28,16 @@ https://sudokucolors.netlify.app
 https://yaytext.com/bold-italic
 
 
-## Tutorials
+## Technical Tutorials
 ### Phantom Clues
 Made by DuboiousMoboius
 [Phantom Clue Tutorial](files/Phantom%20Clue%20Tutorial.pdf)
 
 
+## Setting Tutorials
+### Sudokucon Videos
+#### 24hr Livestream - Lesson in Setting Sudoku
+https://www.youtube.com/watch?v=uBc7InuOT14
 
+#### How to make a good GAS
+https://www.youtube.com/watch?v=DsouKVQUmao
