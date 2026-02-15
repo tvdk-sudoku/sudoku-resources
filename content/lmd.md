@@ -13,5 +13,5 @@ https://www.youtube.com/watch?v=9vhpo2B9qrM
 [https://drive.google.com/file/d/1kOSaIujq1wsm3C6zfVkIFwNAQXKCDT28/view?usp=drive_link](https://drive.google.com/file/d/1kOSaIujq1wsm3C6zfVkIFwNAQXKCDT28/view?usp=drive_link "https://drive.google.com/file/d/1kOSaIujq1wsm3C6zfVkIFwNAQXKCDT28/view?usp=drive_link")
 
 ### Overview Page Solve Count
-[Script](files/lmd-overview-stats.js)
+[My Script](files/lmd-overview-stats.js)
 

@@ -10,3 +10,6 @@ https://dev-sudokucolors.netlify.app/extendedchecks
 
 ### Sudokupad Colour Editor
 https://dev-sudokucolors.netlify.app/tampermonkey.js
+
+### Sven Magic
+https://github.com/yusitnikov/sudokupad-sven-magic
