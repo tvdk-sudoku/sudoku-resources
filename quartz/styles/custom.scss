@@ -4,12 +4,12 @@
 
 h2 {
     margin-top: 1.5rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.3rem;
 }
 
 h3 {
     margin-top: 0.8rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.3rem;
 }
 
 p {
@@ -18,9 +18,9 @@ p {
 }
 
 
-
-@media (prefers-color-scheme: dark) {
+[saved-theme="dark"] {
     h2 {
         color: rgb(133, 255, 133);
     }
 }
+
