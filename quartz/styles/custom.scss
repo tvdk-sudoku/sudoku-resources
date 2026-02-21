@@ -7,7 +7,7 @@ h2 {
     margin-bottom: 0.3rem;
 }
 
-h3 {
+h3, h4 {
     margin-top: 0.8rem;
     margin-bottom: 0.3rem;
 }
@@ -22,5 +22,18 @@ p {
     h2 {
         color: rgb(133, 255, 133);
     }
+
+    .external {
+        color: turquoise;
+    }
+
+    .internal {
+        color: rgb(11, 153, 223)
+    }
 }
 
+[saved-theme="light"] {
+    h2 {
+        color: rgb(46, 94, 255)
+    }
+}

@@ -7,10 +7,11 @@ This page has a bunch of useful tools, software and websites for setting (primar
 https://sudokumaker.app  
 For SudokuMaker resources, click [here](sudokumaker).
 ### f-puzzles
-https://f-puzzles.com
+https://f-puzzles.com  
 f-puzzles solver: https://github.com/dclamage/SudokuSolver
 ### Penpa
 https://swaroopg92.github.io/penpa-edit
+
 ### Sudoku Coach
 https://sudoku.coach
 
@@ -27,14 +28,24 @@ https://sudokucolors.netlify.app
 ### Sudokupad Text Styling
 https://yaytext.com/bold-italic
 
+## Web Apps
+These are websites and web apps that aid in post-editing or importing/exporting of already made puzzles.
+### Penpa Import
+https://marktekfan.github.io/sudokupad-penpa-import
 
-## Technical Tutorials
-### Phantom Clues
-Made by DuboiousMoboius
-[Phantom Clue Tutorial](files/Phantom%20Clue%20Tutorial.pdf)
+### Sudokupad Line Editor
+https://philpreen.co.uk/sudokupadtools/PathEdit.html
+
+### Puzzlink Importer + Utility Tool
+https://jsfiddle.net/7af6hdjo
+
+### LZString Compressor + Decompressor
+https://codepen.io/Holy-Fire/pen/VNRZme
+
 
 
 ## Setting Tutorials
+This will be properly expanded in the future.
 ### Sudokucon Videos
 #### 24hr Livestream - Lesson in Setting Sudoku
 https://www.youtube.com/watch?v=uBc7InuOT14

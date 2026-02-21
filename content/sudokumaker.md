@@ -1,21 +1,9 @@
 ---
 title: SudokuMaker Resources
 ---
+This page contains SudokuMaker related resources.
 ## Templates and Custom Constraints
 https://docs.google.com/spreadsheets/d/1C5rQaYlDJb3HVzHJSp5UibgM9uo57fwRdxgUOl8t7nA
-
-## Web Apps
-### Puzzlink Importer + Utility Tool
-https://jsfiddle.net/7af6hdjo
-
-### Sudokupad Line Editor
-https://philpreen.co.uk/sudokupadtools/PathEdit.html
-
-### LZString Compressor + Decompressor
-https://codepen.io/Holy-Fire/pen/VNRZme
-
-### Penpa Import
-https://marktekfan.github.io/sudokupad-penpa-import
 
 ## UserScripts
 ### JSON Postprocessing
