@@ -6,9 +6,15 @@ This page has a bunch of useful tools, software and websites for setting (primar
 ### SudokuMaker (Recommended)
 https://sudokumaker.app  
 For SudokuMaker resources, click [here](sudokumaker).
+
+### Interactive Sudoku Solver (ISS)
+A powerful, browser based solver. You can use this Tampermonkey [script](https://dev-sudokucolors.netlify.app/sm2iss/) to export from SudokuMaker to ISS.  
+https://dev-sudokucolors.netlify.app/sm2iss  
+
 ### f-puzzles
 https://f-puzzles.com  
 f-puzzles solver: https://github.com/dclamage/SudokuSolver
+
 ### Penpa
 https://swaroopg92.github.io/penpa-edit
 
