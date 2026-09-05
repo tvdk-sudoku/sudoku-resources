@@ -5,6 +5,7 @@ The aim of this website to collate as many variant sudoku resources in a single 
 <br>
 [Setting Resources](setting_resources)  
 [Solving Resources](solving_resources)  
+[Sudoku Sources](sudoku_sources)  
 <br><br>
 
 [Suggested Content Creators](content_creators)
