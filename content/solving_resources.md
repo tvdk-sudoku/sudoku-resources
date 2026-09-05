@@ -31,17 +31,17 @@ https://www.tampermonkey.net/faq.php?version=5.4.1&ext=dhdg
 
 ## Daily/Weekly Sudokus
 ### Daily GAS and GAPP
-Daily 9x9 easy sudokus, and easy pencil puzzles.
+Daily 9x9 easy sudokus, and easy pencil puzzles.  
 https://docs.google.com/spreadsheets/d/1eFc-khH4InTgSBb59i2g7-Fkp9HLMwrYQwlHs-mSJm4
 
 ### Sudoku Adventure
-Daily 6x6s, each solved by [Rangsk](https://youtube.com/rangsk) on his YouTube channel.
+Daily 6x6s, each solved by [Rangsk](https://youtube.com/rangsk) on his YouTube channel.  
 https://docs.google.com/spreadsheets/u/0/d/1y4BYBEuXbzReb_tx3bTUdKwynL2JveL3ob55g6c-D-Y
 
 ### Artisanal Sudoku
-3 free puzzles + 2 paywalled puzzles a week
+3 free puzzles + 2 paywalled puzzles a week  
 https://artisanalsudoku.substack.com/
 
 ### Bonus Snackdokus
-Snackdokus (mostly easy 4x4s) from a prompt for [Scojo's](https://twitch.tv/scojosolves) Setting Saturday. Note that highlighted puzzles were deemed harder than "snackdoku" difficulty, with red being the hardest. Some puzzles may have been missed.
+Snackdokus (mostly easy 4x4s) from a prompt for [Scojo's](https://twitch.tv/scojosolves) Setting Saturday. Note that highlighted puzzles were deemed harder than "snackdoku" difficulty, with red being the hardest. Some puzzles may have been missed.  
 https://tvdk.pages.dev/files/snackdoku.pdf
