@@ -44,4 +44,5 @@ https://artisanalsudoku.substack.com/
 
 ### Bonus Snackdokus
 Snackdokus (mostly easy 4x4s) from a prompt for [Scojo's](https://twitch.tv/scojosolves) Setting Saturday. Note that highlighted puzzles were deemed harder than "snackdoku" difficulty, with red being the hardest. Some puzzles may have been missed.  
-https://tvdk.pages.dev/files/snackdoku.pdf
+[Snackdokus](files/snackdoku.pdf)
+
