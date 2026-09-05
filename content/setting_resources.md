@@ -43,12 +43,3 @@ https://jsfiddle.net/7af6hdjo
 https://codepen.io/Holy-Fire/pen/VNRZme
 
 
-
-## Setting Tutorials
-This will be properly expanded in the future.
-### Sudokucon Videos
-#### 24hr Livestream - Lesson in Setting Sudoku
-https://www.youtube.com/watch?v=uBc7InuOT14
-
-#### How to make a good GAS
-https://www.youtube.com/watch?v=DsouKVQUmao

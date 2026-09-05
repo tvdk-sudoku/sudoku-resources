@@ -3,7 +3,7 @@ title: SudokuMaker Resources
 ---
 This page contains SudokuMaker related resources.
 ## Templates and Custom Constraints
-https://docs.google.com/spreadsheets/d/1C5rQaYlDJb3HVzHJSp5UibgM9uo57fwRdxgUOl8t7nA
+https://docs.google.com/spreadsheets/d/1W-iNMibvutI9r-cd9289USkPdrhtiSBxMyu6o-tAiu0
 
 ## UserScripts
 ### JSON Postprocessing
