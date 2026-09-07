@@ -1,6 +1,13 @@
 ---
-title: Welcome to Quartz
+title: Sudoku Resources
 ---
+The aim of this website to collate as many variant sudoku resources in a single location. This is very much a work in progress. See [contributing](contributing) for more info. Descriptions for each link/resource will be gradually added over time.   
+<br>
+[Setting Resources](setting_resources)  
+[Solving Resources](solving_resources)
+[Sudoku Sources](sudoku_sources)  
+[Setting Competitions and Events](setting_comps_events)
+<br><br>
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[Suggested Content Creators](content_creators)
+

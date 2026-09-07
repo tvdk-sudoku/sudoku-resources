@@ -25,15 +25,17 @@ Daily 6x6s, each solved by [Rangsk](https://youtube.com/rangsk) on his YouTube c
 https://docs.google.com/spreadsheets/u/0/d/1y4BYBEuXbzReb_tx3bTUdKwynL2JveL3ob55g6c-D-Y
 
 ### Snackdokus
-Snackdokus (mostly easy 4x4s) from a prompt for [Scojo's](https://twitch.tv/scojosolves) Setting Saturday. Note that highlighted puzzles were deemed harder than "snackdoku" difficulty, with red being the hardest. Some puzzles may have been missed.  
+Snackdokus (mostly easy 4x4s) from a prompt for [Scojo's](https://twitch.tv/scojosolves) Setting Saturday. Note that highlighted puzzles were deemed harder than "snackdoku" difficulty, with red being the hardest. Some puzzles may have been missed for highlighting.  
 [Snackdokus](files/snackdoku.pdf)
 
 ## Big Puzzles
 ### Sudokuvania
+By Skeptical Mario 
 1: https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000MQQ  
 2: https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000T6J
 
 ### Super Sudokoid
+By The M
 Final Transmission: https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000RPZ  
 Dark Inversion: https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000SQ0  
 
@@ -48,3 +50,18 @@ Banner: https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000UNX
 ### Rorschach's River
 Large, non-sudoku path drawing puzzle with 50 different sections, each with a different ruleset.
 https://brokensign.com/puzzle/2025/12/31/rorschachs-river.html
+
+## Puzzle Series
+### Zodiac Series
+By ViKingPrime
+https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000GSU
+
+### Dutch Flat Mates
+By Flinty
+https://docs.google.com/spreadsheets/d/1sQXxUB-rKnijbuLLBqciYDXZt20-q0RAsR-8m3vWvZY
+
+
+## Setting Competitions and Events
+[Setting Competitions and Events](setting_comps_events)
+
+
