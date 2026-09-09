@@ -230,8 +230,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/tvdk-sudoku/sudoku-resources
+        CC BY-NC: https://creativecommons.org/licenses/by-nc/4.0/deed.en
     layout:
       position: footer
       priority: 50

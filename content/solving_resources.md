@@ -4,7 +4,7 @@ title: Solving Resources
 ## SudokuPad UserScripts
 ### Rules Resizer
 A very handy script by Nell Gwen that allows you to adjust the location, size and font size of the rules and the on-screen numpad.  
-[rules-resizer](files/rules-resizer.js)
+[rules-resizer](rules_resizer.js)
 
 ### Extended Checks
 Allows you to check the progress of an unfinished puzzle. It is similar to the built-in checkmark but offers additional checks.  

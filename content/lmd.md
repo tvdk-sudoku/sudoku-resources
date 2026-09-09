@@ -14,5 +14,5 @@ See [Tampermonkey Guide](solving_resources.md#How%20to%20Install%20Tampermonkey%
 [https://drive.google.com/file/d/1kOSaIujq1wsm3C6zfVkIFwNAQXKCDT28/view?usp=drive_link](https://drive.google.com/file/d/1kOSaIujq1wsm3C6zfVkIFwNAQXKCDT28/view?usp=drive_link "https://drive.google.com/file/d/1kOSaIujq1wsm3C6zfVkIFwNAQXKCDT28/view?usp=drive_link")
 
 ### Overview Page Solve Count
-[My Script](files/lmd-overview-stats.js)
+[My Script](lmd_overview_stats.js)
 
