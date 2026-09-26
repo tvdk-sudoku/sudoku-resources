@@ -19,8 +19,7 @@ https://docs.google.com/document/d/10TSkmPHFJM38aN0YfkeBBULu6uXlWvFHnKOYsloy4I0
 https://docs.google.com/spreadsheets/d/14D6qWo1-idw9aSeloimb2dc5Ep2mSERxmGAJFFS2x7Y
 
 ## CtC Discord Secret Santa
-Not all puzzles get posted
-### Puzzles
+Not all puzzles get posted.  
 Missing 2023  
 https://docs.google.com/spreadsheets/d/146PRlaQV7YanohkgzlLXHFGrCbIP6xWZl8ACC2STwlc
 

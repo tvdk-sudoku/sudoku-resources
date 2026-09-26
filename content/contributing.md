@@ -1,7 +1,8 @@
 ---
 title: Contributing
 ---
-Contributions are very welcome as long as they follow the guidelines. If in doubt or have any questions, reach out to TVDK on discord (this is my display name, but I am in many variant sudoku discord servers.
+Contributions are very welcome as long as they follow the guidelines. If in doubt or have any questions, reach out to TVDK on discord (this is my display name, but I am in many variant sudoku discord servers.  
+Contributing is relatively easy, even without a technical background.
 
 ## Guidelines
 All pull requests will reviewed against these guidelines. TVDK reserves the right to make the final decision about content and contributions.
@@ -9,18 +10,21 @@ All pull requests will reviewed against these guidelines. TVDK reserves the righ
 	- This really shouldn't need to be said, but just in case. This especially applies to politics and any sort of bigotry, transphobia, homophobia, racism, sexism, misogyny, etc.
 - All content must be yours, unless you have explicit, written permission to use someone else's work (which must be attributed appropriately).
 	- This does not apply to external links as long as ownership is not misrepresented.
-- Content must be well written and contain minimal spelling and grammar mistakes.
+- Content must be well written, use proper capitalisation and punctuation, and contain no spelling and grammar mistakes.
 - Structure new pages in a way that makes sense.
 	- Images and files should be in their respective folders.
 	- File names should be short, descriptive, unique, all lowercase and in the format `file_name`
 	- Internal links should be shortest path and use `[display text](shortest/path/to_file)`
 	- Maintain consistent formatting, headings, style across the website.
+	- Page titles should be short, and properly capitalised.
+	- Use **Australian/Brittish English** spellings for words.
 	- Maintain consistent markdown formatting across the website.
 		- Use `*` for italics and bolding instead of `_`
 		- Use `  ` (2 spaces) for line breaks, except maybe for empty lines? Tbd.
 		- Use `1.` for ordered lists instead of `1)`
 		- Use `-` for unordered lists instead of `*` or `+`
 - Give commits short, descriptive names and summarise the changes in the description.
+- Try to avoid directly hosting large files (>10MB, especially for >100MB), preferably host it elsewhere and link to it.
 - No generative AI may be used.
 
 These guidelines can be updated at any time, and are only guidelines. Exceptions may be allowed in special circumstances.
@@ -52,7 +56,7 @@ All pages should have a short, descriptive title.
 If you do not want a page to be published to the website yet, you can use `draft: true` (Note that this still uploads it to the GitHub repo, which is public). It is not necessary to include `draft: false` to have it published and as such, do not include it.
 
 ### Pull Requests
-When you have finished working on something, [commit](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop) the relevant changes. Please give all commits descriptive names and summarise the changes in the description.  
+When you have finished working on something, [commit](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop) the relevant changes. Please give all commits descriptive names and summarise the changes in the description. Also update the changelog accordingly, but do not add a date as we will change it to the date the pull request is approved.  
 Once you are ready to upload all of your changes, create a [pull request](https://docs.github.com/en/desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request-from-github-desktop#creating-a-pull-request). Once a pull request is created, we will review your changes and accept, refuse, or give feedback on it. If we accept your pull request, that means everything was good and your changes will be applied to the website within a minute or two. If we refuse a pull request, we will give a reason why and maybe some suggestions. If we give feedback and do not accept it, make the changes we suggest and then update the pull request. We retain the right to accept, refuse, or give feedback at our discretion and our decision is final.
 
 ### Issues

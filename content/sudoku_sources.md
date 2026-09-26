@@ -60,7 +60,8 @@ https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000GSU
 By Flinty
 https://docs.google.com/spreadsheets/d/1sQXxUB-rKnijbuLLBqciYDXZt20-q0RAsR-8m3vWvZY
 
-
+### Fortress Fillomino Fridays
+https://docs.google.com/spreadsheets/d/1MwUr8NQIyrsqSL_MJ-pndQzegSJIT1Zy1J5yO0i0SzE
 ## Setting Competitions and Events
 [Setting Competitions and Events](setting_comps_events)
 
